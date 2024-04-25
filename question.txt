@@ -1,0 +1,3 @@
+- Customer and embroidery same format than textile ?
+- In customer, phoneNumber or phoneNumber ?
+- Response data update contract incompleted ??
